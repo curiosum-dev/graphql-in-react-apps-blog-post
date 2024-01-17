@@ -1,2 +1,4 @@
-graphql-client/node_modules/
-graphql-server/node_modules/
+
+# Ignore other common files and directories
+.DS_Store
+node_modules/
